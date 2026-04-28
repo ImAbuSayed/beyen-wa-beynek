@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> بين قلبي وقلبك سر هواك
+> في عيوني أرى فقط نور سناك
+> أنت روحي ونبضي في كل حين
+> يا حياتي أنا لا أهوى سواك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
