@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Beyen Wa Beynek
+
+This log tracks the cryptographic history and versioning for the song **Beyen Wa Beynek** (beyen-wa-beynek).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T06:52:08.504126 | `v1` | `b22d447251044b0b74423987b7ee1437674e047d593e8189e6883f43b6449dc7` | `104f0d0aab1f17c16f77969379232685e6b47001505f76339f7f26944ba54eff` | `2026-05-09_beyen-wa-beynek-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
